@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/happygo.iml" filepath="$PROJECT_DIR$/happygo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/happygo-common.iml" filepath="$PROJECT_DIR$/common/happygo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/happygo-manage.iml" filepath="$PROJECT_DIR$/manage/happygo-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/happygo-mapper.iml" filepath="$PROJECT_DIR$/mapper/happygo-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pojo/happygo-pojo.iml" filepath="$PROJECT_DIR$/pojo/happygo-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/happygo-service.iml" filepath="$PROJECT_DIR$/service/happygo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/happygo-web.iml" filepath="$PROJECT_DIR$/web/happygo-web.iml" />
+    </modules>
+  </component>
+</project>
