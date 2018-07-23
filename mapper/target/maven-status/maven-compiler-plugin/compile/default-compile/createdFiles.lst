@@ -1,1 +1,5 @@
 com/happygo/manage/mapper/ItemCatMapper.class
+com/happygo/manage/mapper/ItemMapper.class
+com/happygo/manage/mapper/ItemParamMapper.class
+com/happygo/manage/mapper/ItemDescMapper.class
+com/happygo/manage/mapper/ItemParamItemMapper.class

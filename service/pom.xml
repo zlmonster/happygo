@@ -17,6 +17,11 @@
             <artifactId>happygo-manage</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.happygo</groupId>
+            <artifactId>happygo-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>
@@ -43,6 +48,11 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
+        </dependency>
+        <!-- 时间操作组件 -->
+        <dependency>
+            <groupId>joda-time</groupId>
+            <artifactId>joda-time</artifactId>
         </dependency>
     </dependencies>
 

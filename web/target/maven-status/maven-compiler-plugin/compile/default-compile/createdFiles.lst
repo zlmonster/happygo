@@ -1,2 +1,4 @@
 com/happygo/manage/controller/ItemCatController.class
+com/happygo/manage/controller/PicUploadController.class
 com/happygo/manage/controller/PageController.class
+com/happygo/manage/controller/ItemController.class

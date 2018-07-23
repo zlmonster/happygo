@@ -1,0 +1,11 @@
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/bean/PicUploadResult.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/service/ApiService.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/service/Function.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/bean/ItemCatData.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/bean/EasyUIResult.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/spring/exetend/converter/json/CallbackMappingJackson2HttpMessageConverter.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/bean/ItemCatResult.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/httpclient/HttpResult.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/utils/CookieUtils.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/service/RedisService.java
+/Library/lizhilong/git/happygo/common/src/main/java/com/happygo/common/httpclient/IdleConnectionEvictor.java

@@ -1,0 +1,11 @@
+127.0.0.1 - - [18/Jul/2018:14:42:37 +0800] "GET /rest/page/login HTTP/1.1" 200 2162 http-bio-8081-exec-1 887
+127.0.0.1 - - [18/Jul/2018:14:42:37 +0800] "GET /js/common.js HTTP/1.1" 200 7307 http-bio-8081-exec-7 8
+127.0.0.1 - - [18/Jul/2018:14:42:38 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-8 3
+127.0.0.1 - - [18/Jul/2018:14:42:41 +0800] "GET /rest/page/index HTTP/1.1" 200 2466 http-bio-8081-exec-9 82
+127.0.0.1 - - [18/Jul/2018:14:42:44 +0800] "GET /rest/page/item-add?_=1531896161055 HTTP/1.1" 200 4487 http-bio-8081-exec-10 76
+127.0.0.1 - - [18/Jul/2018:14:42:44 +0800] "GET /js/kindeditor-4.1.10/kindeditor-all-min.js?_=1531896161056 HTTP/1.1" 200 179915 http-bio-8081-exec-10 2
+127.0.0.1 - - [18/Jul/2018:14:42:44 +0800] "GET /js/kindeditor-4.1.10/lang/zh_CN.js?_=1531896161057 HTTP/1.1" 200 8252 http-bio-8081-exec-10 1
+127.0.0.1 - - [18/Jul/2018:14:42:47 +0800] "GET /rest/item/cat/list HTTP/1.1" 200 3358 http-bio-8081-exec-10 733
+127.0.0.1 - - [18/Jul/2018:14:42:49 +0800] "GET /rest/item/cat/list?id=1 HTTP/1.1" 200 2006 http-bio-8081-exec-9 16
+127.0.0.1 - - [18/Jul/2018:14:42:50 +0800] "GET /rest/item/cat/list?id=2 HTTP/1.1" 200 697 http-bio-8081-exec-9 13
+127.0.0.1 - - [18/Jul/2018:14:42:51 +0800] "GET /rest/item/param/query/itemcatid/3 HTTP/1.1" 404 949 http-bio-8081-exec-7 3
