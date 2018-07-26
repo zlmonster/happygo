@@ -85,7 +85,7 @@ public class PicUploadController {
 
         File newFile = new File(filePath);
 
-        // 写文件到磁盘
+        // 写文件到 磁盘
         uploadFile.transferTo(newFile);
 
         // 校验图片是否合法
