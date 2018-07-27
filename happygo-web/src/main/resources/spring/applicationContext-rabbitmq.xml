@@ -1,0 +1,27 @@
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+	<!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rabbit="http://www.springframework.org/schema/rabbit"-->
+	<!--xsi:schemaLocation="http://www.springframework.org/schema/rabbit-->
+	<!--http://www.springframework.org/schema/rabbit/spring-rabbit-1.4.xsd-->
+	<!--http://www.springframework.org/schema/beans-->
+	<!--http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">-->
+
+	<!--&lt;!&ndash; 定义RabbitMQ的连接工厂 &ndash;&gt;-->
+	<!--<rabbit:connection-factory id="connectionFactory"-->
+		<!--host="${rabbitmq.host}" port="${rabbitmq.port}" username="${rabbitmq.username}"-->
+		<!--password="${rabbitmq.password}" virtual-host="${rabbitmq.vhost}" />-->
+
+	<!--&lt;!&ndash; 管理 &ndash;&gt;-->
+	<!--<rabbit:admin connection-factory="connectionFactory" />-->
+
+	<!--&lt;!&ndash; 定义队列 &ndash;&gt;-->
+	<!--<rabbit:queue name="HAPPYGO-WEB-ITEM-QUEUE" auto-declare="true" durable="true"/>-->
+	<!---->
+	<!--&lt;!&ndash; 消费者对象 &ndash;&gt;-->
+	<!--<bean id="itemMQHandler" class="com.happygo.web.mq.handler.ItemMQHandler"/>-->
+	<!---->
+	<!--&lt;!&ndash; 监听队列 &ndash;&gt;-->
+	<!--<rabbit:listener-container connection-factory="connectionFactory">-->
+		<!--<rabbit:listener ref="itemMQHandler" method="execute" queue-names="HAPPYGO-WEB-ITEM-QUEUE"/>-->
+	<!--</rabbit:listener-container>-->
+
+<!--</beans>-->

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="http://manage.happygo.com/js/jquery-easyui-1.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+	alert($); // 正常弹出的话，证明，jquery加载成功
+	/* $(function(){
+		$.ajax({
+			url : "http://manage.happygo.com/json.jsp",
+			type : "get",
+			dataType : "json",
+			success : function(data){
+				alert(data.abc); // 正常弹出的话，证明，数据加载成功
+			}
+		});
+	}); */
+	function fun(data){
+		alert(data.abc); 
+	}
+</script>
+<script type="text/javascript" src="http://manage.happygo.com/json.jsp?callback=fun"></script>
+</head>
+<body>
+
+</body>
+</html>
