@@ -1,8 +1,8 @@
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/ContentCategory.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/ItemCat.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/ItemParamItem.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/BasePojo.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/ItemDesc.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/Item.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/ItemParam.java
-/Library/lizhilong/happygo/happygo/pojo/src/main/java/com/happygo/manage/pojo/Content.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/ItemCat.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/Content.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/Item.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/ItemParam.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/ItemParamItem.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/BasePojo.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/ContentCategory.java
+/Library/lizhilong/happygo/happygo-manage/pojo/src/main/java/com/happygo/manage/pojo/ItemDesc.java

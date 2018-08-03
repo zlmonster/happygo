@@ -17,6 +17,11 @@
             <artifactId>happygo-common</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.happygo.manage</groupId>
+            <artifactId>happygo-mapper</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         <!-- Spring -->
         <dependency>
             <groupId>org.springframework</groupId>
