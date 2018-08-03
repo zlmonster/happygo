@@ -1,0 +1,9 @@
+com/happygo/manage/service/PropertieService.class
+com/happygo/manage/service/ItemParamService.class
+com/happygo/manage/service/ItemCatService.class
+com/happygo/manage/service/ItemDescService.class
+com/happygo/manage/service/ContentCategoryService.class
+com/happygo/manage/service/ItemService.class
+com/happygo/manage/service/ItemParamItemService.class
+com/happygo/manage/service/ContentService.class
+com/happygo/manage/service/BaseService.class
